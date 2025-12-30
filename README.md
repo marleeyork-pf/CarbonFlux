@@ -34,7 +34,6 @@
   <img src="figures/seasonal_temperature.png" width="400" alt="Temperature Patterns from Cool to Warm Ecosystems">
   <img src="figures/precipitation.png" width="400" alt="Precipitation Patterns from Arid to Mesic Ecosystems">
   <img src="figures/radiation.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
-  <img src="figures/radiation.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
   <img src="figures/site_map.png" width="400" alt="Map of Site Included in Study">
   
 <ul>
