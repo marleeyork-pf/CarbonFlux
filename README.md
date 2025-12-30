@@ -35,10 +35,12 @@
   <img src="figures/precipitation.png" width="400" alt="Precipitation Patterns from Arid to Mesic Ecosystems">
   <img src="figures/radiation.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
   <img src="figures/site_map.png" width="400" alt="Map of Site Included in Study">
-  
+</p>
+
+<h2>Skills</h2>
 <ul>
   <li><strong>Languages</strong>: R </li>
-  <li><strong>Libraries</strong>: ggplot2, pandas </li>
+  <li><strong>Libraries</strong>: ggplot2, pandas, randomForestSRC, fastshap, qgam </li>
   <li><strong>Compute</strong>: HPC cluster for large-scale processing</li>
   <li><strong>Data Source</strong>: <a href="https://ameriflux.lbl.govx Network</a></li>
 </ul>
