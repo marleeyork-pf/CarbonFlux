@@ -27,13 +27,13 @@
   <li><strong>HPC Workflow</strong>: parallel processing for scalable analysis</li>
 </ul>
 
-<h2>📊 Example Visualization</h2>
+<h2>Data Visualization</h2>
 <p>
   <!-- Replace the src path with your actual image -->
   <img src="images/extremeflux_viz.png" alt="Seasonal flux response under varying MAT categories" width="800🛠 Tech Stack</h2>
 <ul>
-  <li><strong>Languages</strong>: R, Python</li>
-  <li><strong>Libraries</strong>: ggplot2, pandas, scikit-learn, plotly</li>
+  <li><strong>Languages</strong>: R </li>
+  <li><strong>Libraries</strong>: ggplot2, pandas </li>
   <li><strong>Compute</strong>: HPC cluster for large-scale processing</li>
   <li><strong>Data Source</strong>: <a href="https://ameriflux.lbl.govx Network</a></li>
 </ul>
@@ -53,6 +53,7 @@ carbonflux/
 ├── analysis/               # HPC job submission files for ML
 ├── functions/              # Key functions for data preprocessing 
 ├── figures/                # Figures for README and publication
+├── communication/          # Posters and presentations for communication
 ├── visualizations.RMD      # Example code for key figures
 └── README.md
 </pre>
@@ -60,10 +61,16 @@ carbonflux/
 <h2>Products and Communication</h2>
 <ul>
   <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li>
-  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: </li>
-  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: </li>
+  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: 
+    <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/AmeriFluxPoster.pdf" alt="AmeriFlux 2025 Poster" width="400">
+  </li>
+  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: 
+     <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/Presentation_Biennial.pdf" alt="Biennial 2025 Presentation" width="400">
+  </li>
    <li><strong>Python for Ecologist Workshop Leader</strong>: used this data to train ecologist in Matplotlib and seaborn</li>
-  <li><strong>American Geophysical Union 2024 Poster</strong>: </li>
+  <li><strong>American Geophysical Union 2024 Poster</strong>: 
+    <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/AmeriFluxPoster.pdf" alt="AGU 2024 Poster" width="400">
+  </li>
 </ul>
 
 <h2>🔗 Links</h2>
