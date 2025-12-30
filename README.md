@@ -29,8 +29,14 @@
 
 <h2>Data Visualization</h2>
 <p>
-  <!-- Replace the src path with your actual image -->
-  <img src="images/extremeflux_viz.png" alt="Seasonal flux response under varying MAT categories" width="800🛠 Tech Stack</h2>
+  <img src="figures/extreme_identification.png" width="400" alt="Identification of Extreme Carbon Fluxes">
+  <img src="figures/VIMP_interactions.png" width="400" alt="Random Forest Variable Importances and Interactions">
+  <img src="figures/seasonal_temperature.png" width="400" alt="Temperature Patterns from Cool to Warm Ecosystems">
+  <img src="figures/precipitation.png" width="400" alt="Precipitation Patterns from Arid to Mesic Ecosystems">
+  <img src="figures/radiation.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
+  <img src="figures/radiation.png" width="400" alt="Impact of Shortwave Radiation Across Climates">
+  <img src="figures/site_map.png" width="400" alt="Map of Site Included in Study">
+  
 <ul>
   <li><strong>Languages</strong>: R </li>
   <li><strong>Libraries</strong>: ggplot2, pandas </li>
@@ -71,12 +77,6 @@ carbonflux/
   <li><strong>American Geophysical Union 2024 Poster</strong>: 
     <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/AmeriFluxPoster.pdf" alt="AGU 2024 Poster" width="400">
   </li>
-</ul>
-
-<h2>🔗 Links</h2>
-<ul>
-  <!-- Replace with your actual URLs if you have them -->
-  <li><a href="https://ameriflux.lbl.gov/" target="_blank" rel="noopener="https://your-username.github.io/extremeflux/" target="_blank"tHub Pages)</a></li>
 </ul>
 
 <h2>📬 Contact</h2>
