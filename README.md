@@ -65,22 +65,15 @@ carbonflux/
 └── README.md
 </pre>
 
-<h2>Products and Communication</h2>
-<ul>
-  <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li>
-  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: 
-    <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/AmeriFluxPoster.pdf" alt="AmeriFlux 2025 Poster" width="400">
-  </li>
-  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: 
-     <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/Presentation_Biennial.pdf" alt="Biennial 2025 Presentation" width="400">
-  </li>
-   <li><strong>Python for Ecologist Workshop Leader</strong>: used this data to train ecologist in Matplotlib and seaborn</li>
-  <li><strong>American Geophysical Union 2024 Poster</strong>: 
-    <img src="https://github.com/marleeyork-pf/CarbonFlux/blob/main/communication/AmeriFluxPoster.pdf" alt="AGU 2024 Poster" width="400">
-  </li>
-</ul>
+<h2>Products and Communication</h2> 
+<ul> 
+  <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li> 
+  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: <a href="communication/AmeriFluxPoster.pdf">View PDF</a> </li> 
+  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: <a href="communication/Presentation_Biennial.pdf">View PDF</a> </li> 
+  <li><strong>Python for Ecologist Workshop Leader</strong>: used this data to train ecologists in Matplotlib and seaborn</li> 
+  <li><strong>American Geophysical Union 2024 Poster</strong>: <a href="communication/AmeriFluxPoster.pdf">View PDF</a> </li> </ul>
 
-<h2>📬 Contact</h2>
+<h2>Contact</h2>
 <p>
   For questions or collaboration: <strong>marleeyork2025@gmail.com</strong><br>
 <p>
