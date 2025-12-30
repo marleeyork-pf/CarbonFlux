@@ -57,24 +57,24 @@ carbonflux/
 └── README.md
 </pre>
 
+<h2>Products and Communication</h2>
+<ul>
+  <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li>
+  <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: </li>
+  <li><strong>Biennial Conference of Science and Management Speaker Presentation</strong>: </li>
+   <li><strong>Python for Ecologist Workshop Leader</strong>: used this data to train ecologist in Matplotlib and seaborn</li>
+  <li><strong>American Geophysical Union 2024 Poster</strong>: </li>
+</ul>
+
 <h2>🔗 Links</h2>
 <ul>
   <!-- Replace with your actual URLs if you have them -->
   <li><a href="https://ameriflux.lbl.gov/" target="_blank" rel="noopener="https://your-username.github.io/extremeflux/" target="_blank"tHub Pages)</a></li>
 </ul>
 
-<h2>👩‍💻 Your Role & Skills Demonstrated</h2>
-<ul>
-  <li>Designed a robust data pipeline for multi-site AmeriFlux downloads</li>
-  <li>Optimized HPC job submission and parallel processing</li>
-  <li>Built reproducible modeling and visualization components</li>
-  <li>Ensured publication-quality figures and color/linestyle accessibility</li>
-</ul>
-
 <h2>📬 Contact</h2>
 <p>
-  For questions or collaboration: <strong>your.email@example.com</strong><br>
-  Portfolio: <a href="https://yourportfolio.com" target="_blank" rel="noopenerptional badges (replace with your details) -->
+  For questions or collaboration: <strong>marleeyork2025@gmail.com</strong><br>
 <p>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg="badge/status-research--prototype-purple.svg
 </p>
