@@ -79,7 +79,11 @@ carbonflux/
 
 <h2>Products and Communication</h2>
 <ul>
-  <li><strong>Peer-Reviewed Publication</strong>: In revision, stay tuned!</li>
+  <li><p>
+  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70926?casa_token=...">
+    Peer-Reviewed Publication in Global Change Biology
+  </a>
+</p></li>
   <li><strong>AmeriFlux 2025 Annual Meeting Poster</strong>: 
     <a href="communication/AmeriFluxPoster.pdf">View PDF</a>
   </li>
