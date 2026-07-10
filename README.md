@@ -4,8 +4,8 @@
 <p><strong>Analyzing ecosystem flux responses to extreme climate events using AmeriFlux data</strong></p>
 
 <hr>
-<h2>Check out the publication here: </h2> <a href="https://ameriflux.lbl.gov">AmeriFlux Network</a>
-<h2>Or listen to this podcast to learn what this research means for you: </h2>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70926?casa_token=_BU_hqV8C7IAAAAA%3ARj6QUE848D31MaUWyR6Wt7RaCKv7cstpwdEPHgvnJQZwqO63RmDq5kGvExGIbpDk49mvNGYV4041QdLj">Publication in Global Change Biology</a>
+<a "https://open.spotify.com/episode/2slUeF70rZjcNnLzIOcZY5">Or listen to this podcast to learn what this research means for you!</a>
 
 <h2>TLDR</h2>
 <p>
