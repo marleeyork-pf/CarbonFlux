@@ -18,7 +18,7 @@
 
 <h2>TLDR</h2>
 <p>
-  <strong>CarbonFlux</strong> uses <strong>machine learning</strong> and <strong>explainable AI</strong> to determine environmental 
+  <strong>CarbonFlux</strong> uses <strong>machine learning, statistical modeling, </strong> and <strong>explainable AI</strong> to determine environmental 
   drivers of anomalously large movements of carbon into or out of an ecosystem. <strong>Random forest</strong> was 
   applied to data from 14 weather tower stations (AmeriFlux network), and trends and patterns in 
   biogeochemical responses to weather events were identified using <strong>SHAP analysis</strong>. I determined 
