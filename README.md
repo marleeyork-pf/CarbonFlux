@@ -4,8 +4,8 @@
 <p><strong>Analyzing ecosystem flux responses to extreme climate events using AmeriFlux data</strong></p>
 
 <hr>
-<h2>Check out the publication here: </h2>
-<h2>Or listen to this podcast to learn what my research means for you</h2>
+<h2>Check out the publication here: </h2> <a href="https://ameriflux.lbl.gov">AmeriFlux Network</a>
+<h2>Or listen to this podcast to learn what this research means for you: </h2>
 
 <h2>TLDR</h2>
 <p>
