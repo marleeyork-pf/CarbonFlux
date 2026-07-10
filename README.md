@@ -5,7 +5,7 @@
 
 <hr>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70926?casa_token=_BU_hqV8C7IAAAAA%3ARj6QUE848D31MaUWyR6Wt7RaCKv7cstpwdEPHgvnJQZwqO63RmDq5kGvExGIbpDk49mvNGYV4041QdLj">Read the publication in Global Change Biology</a>
-<a href = "https://open.spotify.com/episode/2slUeF70rZjcNnLzIOcZY5">or listen to this podcast to learn what this research means for you!</a>
+<a href="[https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70926?casa_token=_BU_hqV8C7IAAAAA%3ARj6QUE848D31MaUWyR6Wt7RaCKv7cstpwdEPHgvnJQZwqO63RmDq5kGvExGIbpDk49mvNGYV4041QdLj](https://open.spotify.com/episode/2slUeF70rZjcNnLzIOcZY5)">Read the publication in Global Change Biology</a>
 
 <h2>TLDR</h2>
 <p>
